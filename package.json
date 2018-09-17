@@ -1,0 +1,21 @@
+{
+    "name": "3djs",
+    "version": "0.0.1",
+    "devDependencies": {
+        "@types/node": "^10.7.1",
+        "@types/three": "^0.92.21",
+        "three": "^0.95.0",
+        "webpack-cli": "^3.1.0"
+    },
+    "scripts": {
+        "dev": "webpack-dev-server"
+    },
+    "dependencies": {
+        "@wildpeaks/three-webpack-plugin": "^2.0.0",
+        "awesome-typescript-loader": "^5.2.0",
+        "html-webpack-plugin": "^3.2.0",
+        "typescript": "^3.0.1",
+        "webpack": "^4.17.1",
+        "webpack-dev-server": "^3.1.5"
+    }
+}
